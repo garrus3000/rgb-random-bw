@@ -1,19 +1,17 @@
 {
   "name": "rgb-random-bw",
   "version": "1.0.0",
-  "description": "Generate RGB colors",
+  "description": "A simple npm proyect, that gives you a series of random colors in ⠀R G B ⠀format.",
   "main": "index.js",
   "bin": {
-    "rgb-random": "bin/index.js"
+    "rgb-random-bw": "bin/index.js"
   },
   "scripts": {
-    "start": "node ./bin/index.js"
+    "start": "node bin/index.js"
   },
-  "author": "Eduardo Odriozola <eduardocorrientes@gmail.com> (https://github.com/garrus3000)",
-  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/garrus3000/rgb-random-bw.git"
+    "url": "git+https://github.com/garrus3000/rgb-random-bw.git"
   },
   "keywords": [
     "rgb",
@@ -21,5 +19,7 @@
     "color",
     "generate color",
     "rgb generator"
-  ]
+  ],
+  "author": "Eduardo Odriozola <eduardocorrientes@gmail.com> (https://github.com/garrus3000)",
+  "license": "ISC"
 }
