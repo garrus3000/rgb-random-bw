@@ -9,10 +9,6 @@
   "scripts": {
     "start": "node bin/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/garrus3000/rgb-random-bw.git"
-  },
   "keywords": [
     "rgb",
     "rgb random",
